@@ -1,16 +1,12 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/163637857?v=4" width="200" alt="Tharushka Heshan Profile Picture" style="border-radius: 50%;" />
+  
   <br>
   Tharushka Heshan
   <br>
   <font size="3">Aspiring Web Developer</font>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tharushka-hesham-a78888247/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  <a href="mailto:heshantharushka2002@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
+ 
 <br>
 
 ## 🧰  My Toolkit
