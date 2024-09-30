@@ -25,7 +25,9 @@ I'm always learning and expanding my skillset. Here are some of the technologies
  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
  [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)](https://expressjs.com/) 
  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
- [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)  
+ [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+ [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)](https://numpy.org/)
+ [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
 
 * **Databases:** 
  [![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql)](https://www.mysql.com/)
