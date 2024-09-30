@@ -14,8 +14,7 @@
 I'm always learning and expanding my skillset. Here are some of the technologies I'm currently using:
 
 * **Languages:**
-* 
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/Heshan-404.svg)](https://user-badge.committers.top/sri_lanka/Heshan-404)
+*  
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)](https://www.javascript.com/)
   [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](https://www.java.com/)
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
