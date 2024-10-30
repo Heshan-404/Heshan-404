@@ -11,7 +11,7 @@
 
 ## 🧰  My Toolkit  
 
-I'm always learning and expanding my skillset. Here are some of the technologies I'm currently using:
+I'm always learning and expanding my skill set. Here are some of the technologies I'm currently using:
 
 * **Languages:**
 *  
@@ -52,7 +52,7 @@ I'm always looking for new challenges and opportunities to learn. Currently, I'm
 I'm open to collaborating on projects, learning from others, and exploring new opportunities. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tharushka-hesham-a78888247/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/tharushka-heshan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
   <a href="mailto:heshantharushka2002@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
