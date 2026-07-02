@@ -5,9 +5,6 @@
   <font size="3">Aspiring Web Developer</font>
 </h1>
 <div style="text-align: right; margin-top: 20px;">
-  <a href="https://github.com/Heshan-404/Heshan-404/blob/main/CV2024.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Get%20MY%20CV-4CAF50?style=flat-square&logo=document&logoColor=white" alt="Download CV">
-  </a>
 
 ## 🧰  My Toolkit  
 
